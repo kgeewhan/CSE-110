@@ -1,1 +1,2 @@
-Geewhan's User Page
+Geewhan's User Page  
+Python is great!  
